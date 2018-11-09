@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SubFramework-Swift.h</key>
 		<data>
-		7t1bLNYXMbMzwQzzD87KEDm5TXI=
+		4ASdBesW1iBKTpOB/EjADJgTx2Q=
 		</data>
 		<key>Headers/SubFramework.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/SubFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		j6wf7pv+54K9KF8C3GvPJsBE0s8=
+		VMSUP12xEJhFw2ax8Vj7lIPBhFM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,7 +35,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kRrtBxdBNcXXAXXcpW1KhwOa5LZnO8Er9zQ9SXtbf0s=
+			UB05izs7WBN3zQsAXybhKPYxBT3xS/ynNsuMuYtKh4M=
 			</data>
 		</dict>
 		<key>Headers/SubFramework.h</key>
@@ -56,7 +56,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3E1exvcf9+HUAhscuxlYQOEU6cswK0MZzE/4GaJ84CE=
+			Jv69cTLhOtjdrz0hPjjqGyXA5BGArQtu2kL26OvFzWc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

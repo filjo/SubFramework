@@ -1,7 +1,7 @@
 import Foundation
 import Alamofire
 
-public class Calculator {
+public class Calculator: NSObject {
     
     private var number_1: Int = 10
     private var number_2: Int = 20
