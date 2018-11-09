@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "10.0"
   s.source       = { :git => "https://github.com/filjo/SubFramework.git", :branch => 'v0.0.1' }
   s.ios.vendored_frameworks  = "Subframework.framework"
+  s.dependency 'Alamofire'
 end
